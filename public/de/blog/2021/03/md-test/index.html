@@ -1,0 +1,61 @@
+<!doctype html><html lang=de><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=generator content="Hugo 0.81.0"><link rel=stylesheet href=https://yagune.de/css/main.min.37b89e9f030db259531cedf202d9618e28c8a83ae7d555b706ac0b976a1efdc9.css integrity="sha256-N7ienwMNsllTHO3yAtlhjijIqDrn1VW3BqwLl2oe/ck="><script async defer src=https://yagune.de/js/footnotes.min.25eeb65acc689c4a4fc710844a7c03f5890f37c7fafab6bca70ff139baff89dd3db8c0e7159e22ea2fc437be492d2e19d5f490722310d64bd7b8cc56374a85f2.js integrity="sha512-Je62WsxonEpPxxCESnwD9YkPN8f6+ra8pw/xObr/id09uMDnFZ4i6i/EN75JLS4Z1fSQciMQ1kvXuMxWN0qF8g=="></script><title>Md Test | yagune.de</title><link rel=alternate hreflang=en href=https://yagune.de/en/blog/2021/03/md-test/></head><body><div class=center-text id=header><nav><a href=/de/>Blog</a>
+<a href=/de/shorts/>Shorts</a>
+<a href=/de/impressum/>Impressum</a></nav></div><div id=content><main id=main><article><header><div class=center-text><h1>Md Test</h1><div id=translations><a href=https://yagune.de/en/blog/2021/03/md-test/>English: Md Test</a></div></div></header><hr><h1 id=an-h1-header>An h1 header</h1><p>This is a test, do not take this seriously!</p><p>Paragraphs are separated by a blank line.<sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup></p><p>Multiline footnotes.<sup id=fnref:2><a href=#fn:2 class=footnote-ref role=doc-noteref>2</a></sup></p><p>2nd paragraph. <em>Italic</em>, <strong>bold</strong>, and <code>monospace</code>. Itemized lists
+look like:</p><ul><li>this one</li><li>that one</li><li>the other one</li></ul><p>Note that &mdash; not considering the asterisk &mdash; the actual text
+content starts at 4-columns in.</p><blockquote><p>Block quotes are
+written like so.</p><p>They can span multiple paragraphs,
+if you like.</p></blockquote><p>Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., &ldquo;it&rsquo;s all
+in chapters 12&ndash;14&rdquo;). Three dots &mldr; will be converted to an ellipsis.
+Unicode is supported. ☺</p><h2 id=an-h2-header>An h2 header</h2><p>Here&rsquo;s a numbered list:</p><ol><li>first item</li><li>second item</li><li>third item</li></ol><p>Note again how the actual text starts at 4 columns in (4 characters
+from the left side). Here&rsquo;s a code sample:</p><pre><code># Let me re-iterate ...
+for i in 1 .. 10 { do-something(i) }
+</code></pre><p>As you probably guessed, indented 4 spaces. By the way, instead of
+indenting the block, you can use delimited blocks, if you like:</p><pre><code>define foobar() {
+    print &quot;Welcome to flavor country!&quot;;
+}
+</code></pre><p>(which makes copying & pasting easier). You can optionally mark the
+delimited block for Pandoc to syntax highlight it:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">5
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#f92672>import</span> time
+<span style=color:#75715e># Quick, count to ten!</span>
+<span style=color:#66d9ef>for</span> i <span style=color:#f92672>in</span> range(<span style=color:#ae81ff>10</span>):
+    <span style=color:#75715e># (but not *too* quick)</span>
+    time<span style=color:#f92672>.</span>sleep(<span style=color:#ae81ff>0.5</span>)
+    <span style=color:#66d9ef>print</span> i
+</code></pre></td></tr></table></div></div><h3 id=an-h3-header>An h3 header</h3><p>Now a nested list:</p><ol><li><p>First, get these ingredients:</p><ul><li>carrots</li><li>celery</li><li>lentils</li></ul></li><li><p>Boil some water.</p></li><li><p>Dump everything in the pot and follow
+this algorithm:</p><pre><code>find wooden spoon
+uncover pot
+stir
+cover pot
+balance wooden spoon precariously on pot handle
+wait 10 minutes
+goto first step (or shut off burner when done)
+</code></pre><p>Do not bump wooden spoon or it will fall.</p></li></ol><p>Notice again how text always lines up on 4-space indents (including
+that last line which continues item 3 above).</p><p>Here&rsquo;s a link to <a href=http://foo.bar target=_blank rel="noopener external">a website</a>
+, to a <a href=local-doc.html>local
+doc</a>
+, and to a <a href=#an-h2-header>section heading in the current
+doc</a>
+. Here&rsquo;s a footnote <sup id=fnref:3><a href=#fn:3 class=footnote-ref role=doc-noteref>3</a></sup>.</p><p>Tables can look like this:</p><table><thead><tr><th>size</th><th>material</th><th>color</th></tr></thead><tbody><tr><td>9</td><td>leather</td><td>brown</td></tr><tr><td>10</td><td>hemp canvas</td><td>natural</td></tr><tr><td>11</td><td>glass</td><td>transparent</td></tr></tbody></table><p>Table: Shoes, their sizes, and what they&rsquo;re made of</p><p>(The above is the caption for the table.) Pandoc also supports
+multi-line tables:</p><table><thead><tr><th>keyword</th><th>text</th></tr></thead><tbody><tr><td>red</td><td>Sunsets, apples, and other red or reddish things.</td></tr><tr><td>green</td><td>Leaves, grass, frogs and other things it&rsquo;s not easy being.</td></tr></tbody></table><p>A horizontal rule follows.</p><hr><p>Here&rsquo;s a definition list:</p><p>apples
+: Good for making applesauce.
+oranges
+: Citrus!
+tomatoes
+: There&rsquo;s no &ldquo;e&rdquo; in tomatoe.</p><p>Again, text is indented 4 spaces. (Put a blank line between each
+term/definition pair to spread things out more.)</p><p>Here&rsquo;s a &ldquo;line block&rdquo;:</p><p>| Line one
+| Line too
+| Line tree</p><p>and images can be specified like so:</p><p><img src=example-image.jpg alt="example image" title="An exemplary image"></p><p>Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:</p><p>$$I = \int \rho R^{2} dV$$</p><p>And note that you can backslash-escape any punctuation characters
+which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p><section class=footnotes role=doc-endnotes><hr><ol><li id=fn:1 role=doc-endnote><p>Hello World <a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:2 role=doc-endnote><p>Hello World</p><p>Hello World <em>Italic Hello World</em> <a href=#fnref:2 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:3 role=doc-endnote><p>Footnote text goes here. <a href=#fnref:3 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li></ol></section></article><hr><div class="center-text metadata"><div id=tags class=center-text>#<a href=https://yagune.de/de/tags/testtag1/>testTag1</a>
+#<a href=https://yagune.de/de/tags/testtag2/>testTag2</a></div><p>Published:
+<time datetime=2021-03-03>2021-03-03</time>
+|
+Last update: <a target=_blank rel="noopener external" href=https://github.com/YuriGassner/Blog_Stuff/commit/ecd9175894e3755a05013f5f4f5d6df2b1f2d83f>2021-03-19</a> |
+<a target=_blank rel="noopener external" href=https://github.com/YuriGassner/Blog_Stuff/commits/main/content/de/blog/md-test.md>All changes</a></p></div><div id=copyright><a href=https://yagune.de/de/copyright/ id=copyright-link><img src=https://yagune.de/cc-icons-svg/cc.min.svg alt=CC class=cc-copyright-icon>
+<img src=https://yagune.de/cc-icons-svg/by.min.svg alt=BY class=cc-copyright-icon>
+<img src=https://yagune.de/cc-icons-svg/sa.min.svg alt=SA class=cc-copyright-icon></a></div><hr><div id=next-prev></div></main></div><div id=footer class=center-text><p><a href=/de/tags/>Tags</a> | <a href=/de/rss/>RSS</a> | <a href=/de/sitemap/>Sitemap</a></p></div></body></html>

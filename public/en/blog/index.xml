@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on yagune.de</title><link>https://yagune.de/en/blog/</link><description>Recent content in Blog on yagune.de</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Wed, 03 Mar 2021 18:19:04 +0100</lastBuildDate><atom:link href="https://yagune.de/en/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Md Test</title><link>https://yagune.de/en/blog/2021/03/md-test/</link><pubDate>Wed, 03 Mar 2021 18:19:04 +0100</pubDate><guid>https://yagune.de/en/blog/2021/03/md-test/</guid><description>An h1 header Paragraphs are separated by a blank line.1
+Multiline footnotes.2
+2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
+this one that one the other one Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
+Block quotes are written like so.
+They can span multiple paragraphs, if you like.
+Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex.</description></item></channel></rss>
