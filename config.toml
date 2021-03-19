@@ -45,13 +45,22 @@ PluralizeListTitles = false
   weight = 2
 
 [[languages.de.menu.main]]
+  name = "Rezepte"
+  url = "/de/recipes/"
+  weight = 3
+[[languages.en.menu.main]]
+  name = "Recipes"
+  url = "/en/recipes/"
+  weight = 3
+
+[[languages.de.menu.main]]
   name = "Impressum"
   url = "/de/impressum/"
-  weight = 3
+  weight = 4
 [[languages.en.menu.main]]
   name = "Imprint"
   url = "/en/imprint/"
-  weight = 3
+  weight = 4
 
 [languages]
   [languages.de]
