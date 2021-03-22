@@ -36,8 +36,8 @@ Zimtstange, 1,5 gestrichene EL Kurkuma, 2EL Paprikapulver, 1/2 TL geräuchertes 
 
 1,5h auf kleinster Flamme reduzieren lassen
 
-
-**Chile sin carne**
+Chile sin carne
+============ 
 
 gleiche Mengen wie beim *Chile con carne* nur wird das Hackfleisch durch eine Packung Tofu ersetzt
 

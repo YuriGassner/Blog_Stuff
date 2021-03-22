@@ -5,7 +5,8 @@ tags: ["Pasta", "Italienisch"]
 draft: false
 ---
 
-*Carbonara*
+Carbonara
+============ 
 
 - Speck (Guanciale oder Panchetta im Original)
 - Eigelb
@@ -22,7 +23,8 @@ Noch heiße Pasta (kurz vor Al dente aus dem Wasser nehmen) mit der Eigelbmasse 
 
 Etwas Pastawasser hinzugeben und durchs rühren/schwingen der Pfanne eine Emulsion bilden
 
-*Bolognese*
+Bolognese
+============ 
 
 - 500g Rinderhack
 - 700ml Tomatenpassata
@@ -55,16 +57,18 @@ Petersilie klein hacken und nachdem der Topf von der Hitze genommen wurde zufüg
 Beim servieren etwas Parmesan darüberreiben
  
 
-*Cacio e Pepe*
-
+Cacio e Pepe
+============
+ 
 - Parmegiano-Reggiano
 - Pfeffer
 
 Mit den heißen Pasta, etwas Pastawasser, Parmesan und Pfeffer eine Emulsion bilden sodass eine cremige Soße gebildet wird
 
 
-*Salbeibutter*
-
+Salbeibutter
+============
+ 
 - Salbei
 - Butter
 - Parmegiano-Reggiano
@@ -73,8 +77,9 @@ Etwas Butter in einem kleinem Topf schmelzen lassen und klein gehackten Salbei z
 
 Heiße Salbeibutter mit den Pasta vermischen und Parmesan darüberreiben
 
-*'Arrabbiata*
-
+'Arrabbiata
+============
+ 
 - Tomaten/Dosentomaten/Tomatenpassata
 - Basilikum
 - Knoblauch

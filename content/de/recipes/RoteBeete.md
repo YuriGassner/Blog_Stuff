@@ -6,7 +6,8 @@ draft: false
 ---
 
 
-*Rote Bete Kvass*
+Rote Bete Kvass
+============ 
 
 - 1Rote Bete
 - Salz

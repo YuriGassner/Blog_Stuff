@@ -4,7 +4,8 @@ date: 2021-03-19T18:19:04+01:00
 tags: ["Aller Art", "Sandwich"]
 ---
 
-*Schinken-Gürkchen Sandwich*
+Schinken-Gürkchen Sandwich
+============ 
 
 - 1 Baguette oder sonstige Brötchen geeignet für ein Sandwich
 - Gekochter Schinken - *Prosciutto Cotto*
@@ -20,7 +21,8 @@ Brot - Mayo - Schinken - Essiggurken - Mayo - Brot
 Mayo kann auch mit ganzkörnigem Senf ersetzt werden (evtl. süßer Senf, testen auf eigene Gefahr) 
 
 
-*Tomate-Mozarella Sandwich*
+Tomate-Mozarella Sandwich
+============ 
 
 - 1 Baguette oder Ciabatta
 - Olivenöl
@@ -46,7 +48,8 @@ Basilikum waschen und entweder ganz oder *julienne* geschnitten auf den Mozarell
 
 Deckeln druff
 
-*Bayrisch' Süß-Sauer Sandwich*
+Bayrisch' Süß-Sauer Sandwich
+============ 
 
 - 1 Brötchen/Scheibe Brot
 - Salami

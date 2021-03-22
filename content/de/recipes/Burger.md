@@ -4,8 +4,8 @@ date: 2021-03-22T18:19:04+01:00
 tags: ["Burger", "Burger"]
 draft: false
 ---
-
-*Burger*
+Burger
+============ 
 
 - Burgerbrötchen (Buns)
 - 500g Rinderhack
@@ -39,7 +39,8 @@ Burger aufbauen:
 
 Bun-Soße-Salat-Patty(mit Käse)-Tomate-Zwiebel-Essiggurke-Soße-Bun
 
-**Karamellisierte Zwiebeln/Fenchel**
+Karamellisierte Zwiebeln/Fenchel
+============ 
 
 Bekannt sind karamellisierte Zwiebeln:
 
@@ -47,7 +48,8 @@ Zwiebeln bei niedriger Hitze für 10-15min mit etwas Zucker karamellisieren lass
 
 Gleiches kann auch mit fein geschnittenem Fenchel getan werden
 
-**Tomaten-Basilikum-Soße**
+Tomaten-Basilikum-Soße
+============ 
 
 ersetzt Tomaten und jegliche Soße
 

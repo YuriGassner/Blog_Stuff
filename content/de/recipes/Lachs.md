@@ -5,8 +5,8 @@ tags: ["Lachs", "Pfanne"]
 draft: false
 ---
 
-*Gebratener Lachs*
-
+Gebratener Lachs
+============ 
 - Lachsfilet mit Haut
 - Butter
 - Rosmarin (oder thymian, salbei)
@@ -26,7 +26,8 @@ Temperatur auf niedrig stellen und auf der Hautseite weiterbraten
 
  
 
-*Steak*
+Steak
+============ 
 
 Gleiches kann auch mit einem Steak getan werden
 
