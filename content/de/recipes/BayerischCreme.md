@@ -37,6 +37,7 @@ Serviert sich gut mit einer Beerensoße (Himbeeren, Johanisbeeren, Heidelbeeren)
 Beeren pürieren (evtl. sieben) und mit Zucker und etwas Rum/Himbeergeist abschmecken
 
 
-**Bayerisch' Pistaziencreme**
+Bayerisch' Pistaziencreme
+------------
 
 Zusätzlich zur Vanilleschote einfach 80g feingemahlene Pistazien zur Milch hinzugeben
