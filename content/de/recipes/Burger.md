@@ -47,7 +47,7 @@ Zwiebeln bei niedriger Hitze für 10-15min mit etwas Zucker karamellisieren lass
 
 Gleiches kann auch mit fein geschnittenem Fenchel getan werden
 
-*Tomaten-Basilikum-Soße*
+**Tomaten-Basilikum-Soße**
 
 ersetzt Tomaten und jegliche Soße
 
