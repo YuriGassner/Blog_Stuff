@@ -4,14 +4,15 @@ date: 2021-03-03T18:19:04+01:00
 tags: ["Tiramisu", "Dessert"]
 ---
 
-Tiramisu "Easy":
+Tiramisu "Easy"
+============ 
 
-3L Eier
-500g Mascarpone
-100g Puderzucker
-3-4 EL Mandellikör
-Kaffee
-Viel Löffelbiscuit 
+- 3L Eier
+- 500g Mascarpone
+- 100g Puderzucker
+- 3-4 EL Mandellikör
+- Kaffee
+- Viel Löffelbiscuit 
 - 1/2 pck. Vanillinzucker & 1/4 TL Zimt (optional)
 
 (Doppelte Menge füllt eine 40 x 28 x 7.1 cm Form)
@@ -19,19 +20,24 @@ Viel Löffelbiscuit
 Kaffee kochen und mit dem Schnaps und Vanillinzucker&Zimt vermengen
 
 Puderzucker mit dem Eigelb schaumig schlagen und mit der Mascarpone vermengen
+
 Eiweiß zu Eischnee schlagen und unter die Mascarpone-Mischung heben (geht einfach wenn ein kleiner Teil des Eischnees vorher mit der Mascarpone "schlecht unterhoben" wird)
 
 Löffelsbiscuits in die Kaffee-Schnaps Mischung eintauchen (wie lange hängt von der Marke ab, sollte aber nicht völlig durchnässt sein) und in die Form schichten
-- Optional etwas Kakao über die Löffelbiscuits sieben
+
+Optional etwas Kakao über die Löffelbiscuits sieben
+
 Mascarponecreme darübergießen und Prozess wiederholen bis keine Mascarponecreme mehr vorhanden ist (Mascarponecreme bildet die oberste Schicht)
+
 Über Nacht und zugedeckt im Kühlschrank ziehen lassen und vor dem Anrichten erst Kakao über das Tiramisu sieben (ansonsten trocknet das an)
 
 
 
-Tiramisu "Hard" alla Ernst Kram:
+Tiramisu "Hard" alla Ernst Kram
+============ 
 
-
-*Biscuit-Teig*
+Biscuit-Teig
+------------
 
 5 Eigelb (100g)
 250g Puderzucker
