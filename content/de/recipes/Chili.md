@@ -3,8 +3,8 @@ title: "Chile con y sin carne"
 date: 2021-03-19T18:19:04+01:00
 tags: ["Chili", "Spicy"]
 ---
-
-###Chile con carne###
+Chile con carne
+============
 
 - 800g Kichererbsen (Dose)
 - 800g Kidneybohnen (Dose)
