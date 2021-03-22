@@ -30,4 +30,4 @@ Temperatur auf niedrig stellen und auf der Hautseite weiterbraten
 
 Gleiches kann auch mit einem Steak getan werden
 
-Übergießen dient als Schutz vor Austrocknung und hilft das Steak auch im Kern zu erhitzen (was sonst im Ofen oder in der Pfanne mit Deckel gemacht mit) 
+Übergießen dient als Schutz vor Austrocknung und hilft das Steak auch im Kern zu erhitzen (was sonst im Ofen oder in der Pfanne mit Deckel gemacht wird) 
