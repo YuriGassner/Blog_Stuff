@@ -5,7 +5,8 @@ tags: ["Kohl", "Fermentierung"]
 draft: false
 ---
 
-*Sauerkraut*
+Sauerkraut
+============
 
 - Weißkohl
 - Salz
