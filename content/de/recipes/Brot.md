@@ -4,7 +4,8 @@ date: 2021-03-19T18:19:04+01:00
 tags: ["Brot", "Sauerteig"]
 ---
 
-**Sauerteig**
+Sauerteig 
+============
 
 - 150g Vollkornmehl (Roggenmehl gibt einen Roggensauerteig, einheitlich gleiche Mehlart verwenden)
 - 150ml Wasser
@@ -17,8 +18,8 @@ Gefäß sollte nicht geschlossen sein, aber auch nicht offen, sodass keine Fruch
 
 Kann 2 Monate lang im Kühlschrank gelagert werden (festere Masse hält länger, leicht alkoholischer Geruch kann mit einer fütterung bekämpft werden)
 
-
-**Hefe Wasser**
+Hefewasser
+============ 
 
 Gefäß zu 2/3 mit Wasser füllen und entweder Sultaninen oder 1 mittelgroßer geriebenen Apfel mit gleicher Menge weißem Zucker hineingeben
 
@@ -28,8 +29,8 @@ Für etwa 4-5 Tage bei Zimmertemperatur stehen lassen und ein-zweimal täglich s
 
 Kann einige Zeit im Kühlschrank aufbewahrt werden, hin und wieder mit Zucker füttern damit die Hefe nicht abstirbt
 
-
-**Teig**
+Teig
+============ 
 
 75-80% Hydration
 
@@ -49,8 +50,8 @@ Teig sollte kleben aber nichtmehr so schnell reißen (sollte auch schmatzen)
 
 zum gehen 6-12std (je nach Hefestärke, Sauerteigstärke und Zimmertemperatur) in eine Schüssel oder Gehform geben (vorher Mehlen!) und mit einem Tuch abdecken und bei Zimmertemperatur stehen lassen
 
-
-**Backen**
+Backen
+============ 
 
 Ofen auf 250° vorheizen und währenddessen eine Tasse gefüllt mit Wasser hineinstellen (Dampfbildung)
 
