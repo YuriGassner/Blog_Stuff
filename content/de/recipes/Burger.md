@@ -39,7 +39,7 @@ Burger aufbauen:
 
 Bun-Soße-Salat-Patty(mit Käse)-Tomate-Zwiebel-Essiggurke-Soße-Bun
 
-*Karamellisierte Zwiebeln/Fenchel*
+**Karamellisierte Zwiebeln/Fenchel**
 
 Bekannt sind karamellisierte Zwiebeln:
 
