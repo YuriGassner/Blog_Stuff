@@ -48,17 +48,17 @@ Füllung
 ============ 
 
 - 3 rote Paprika
-- 200g Tomaten & 2EL Tomatenmark ODER 4-6 EL Tomatenmark
-- Chillies nach belieben (2 kleine rote geben eine angenehme Schärfe)
+- 200g Tomaten (ohne Kerngehäuse) & 2EL Tomatenmark ODER 4-6 EL Tomatenmark
+- Chillies nach belieben (2 kleine rote geben eine angenehme Schärfe, Pepperoni funktionieren auch sehr gut, geben gut schärfe und eine saure Note)
 - 100ml Olivenöl (weniger wenn das gehackte Fleisch einen hohen Fettanteil hat)
 - 5 große Knoblauchzehen
 - 5 kleine Zwiebeln
 - 2 EL süßes Paprikapulver
 - 1/2 TL Smoked Paprika (optional) 
 - 3 EL Kreuzkümmel (ganz)
-- 1 Bund Petersilie (viel viel)
+- 1 Bund Petersilie (60g)
 - evtl auch etwas Minze (macht sich sehr gut)
-1-1,5 EL Salz
+- 1-1,5 EL Salz
 
 Alles so klein wie möglich hacken, mixen oder reiben und abschmecken!
 
