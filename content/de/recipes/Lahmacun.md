@@ -34,6 +34,16 @@ Teig sollte geschmeidig sein und nicht reißen
 
 24h im Kühlschrank gehen lassen
 
+**Teig mit Sauerteig, 75-80% Hydration**
+
+- 600g Vollkornmehl (dinkel)
+- 150-200g Sauerteig
+- 400ml Wasser
+- prise Salz
+
+für 5-10min kneten und für 6-10std gehen lassen
+
+
 Füllung
 ============ 
 
