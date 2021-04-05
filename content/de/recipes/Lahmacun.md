@@ -43,6 +43,9 @@ Teig sollte geschmeidig sein und nicht reißen
 
 für 5-10min kneten und für 6-10std gehen lassen
 
+*Update*
+
+Am besten etwas Hefe hinzugeben, ansonsten ist der Teig nicht stabil genug
 
 Füllung
 ============ 
