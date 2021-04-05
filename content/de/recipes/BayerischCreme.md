@@ -11,9 +11,9 @@ Bayerisch' Creme
 - 250ml Sahne
 - 1 Vanilleschote
 - 5 Blatt Gelatine (8 Blatt falls die Creme gestürzt werden soll)
-- Schale einer halben Zitrone
+- Schale einer *halben* Zitrone
 - 5 Eigelb
-- 6 El Zucker
+- 6 El Zucker (5 gehen auch)
 - 1 EL Rum
 
 Die Milch mit der aufgeschnittenen Vanilleschote und deren Mark aufkochen lassen, von der Flamme nehmen und 10min ziehen lassen
