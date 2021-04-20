@@ -8,10 +8,11 @@ draft: false
 Carbonara
 ============ 
 
-- Speck (Guanciale oder Panchetta im Original)
-- Eigelb
+- 125g Speck (Guanciale oder Panchetta im Original)
+- 2 Eigelb
 - Parmigiano-reggiano, Pecorino Romano (geht auch mit nur einem vom beiden, Pecorino kann sehr salzig sein alleine)
-- Pfeffer
+- viel Pfeffer
+- 250g Nudeln
 
 **Nudelwasser hier nur leicht bis garnicht salzen** (viel Salz ist im Speck und Käse)
 
