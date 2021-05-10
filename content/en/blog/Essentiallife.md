@@ -4,18 +4,20 @@ date: 2021-03-19T18:19:04+01:00
 tags: ["Theories", "Random"]
 ---
 
-What do we need? What can we improve upon in this society? What can we save?
+What do we need? What can we improve upon in this society? What can we save? Can we go back to tribal times or is that just wishful thinking?
 ============
 
 Disclaimer:
 
-This is just a list of current topics that I have thought about. These are meant to be extended as many have not been researched properly (if that is even possible). This is just some random thoughts that 
-I try to organise here to maybe in the future create coherent concepts for improvement.
+This is just a list of current topics that I have thought about. These are meant to be extended as many have not yet been researched properly (may be impossible in some cases). This is just some random
+thoughts that I try to organise here to maybe in the future create coherent concepts for improvement.
 
 
 Main issues:
 
-1. Society > 100 people is too large to keep social cohesion alive without a system, for modern societies a system is needed to keep control. Religion/Belief-system creates shared values among members with punishment 
+1. The current state(e.g. Welfare state) and religious systems are a bad replacement for social bonds which would normally keep social cohesion in societies
+
+Society > 100 people is too large to keep social cohesion alive without a system, for modern societies a system is needed to keep control. Religion/Belief-system creates shared values among members with punishment 
 and rewards to keep a artificial cohesion (Shared values create similarity/perceived similarity among members decreasing hostility and increasing trust - Values vary slightly between different religions
 but include behavioural restrictions such as monogamy, no murder, no thievery,... STILL NEEDS RESEARCH but Christianity's main values can be found in the 10 commandments and the beatitudes in the
 sermon on the mount ; Punishment of non-comformity further enhances in-group cohesion, similar with rewards; Punishments include social exclusion, starvation from certain ressources like sexual partner,
@@ -64,4 +66,4 @@ in number than the usual friends/family group that one has), strength of social 
 couple of people they sincerely trust and truthfully love - any form of love - rather, most people have a bunch of superficial relationships that stem from work/common goals but no shared values or certain kinds of
 ressource trading for personal gain where the nature of the relationship is rather hostile than loving), ... more? probably   
 
-2. I am a big phony
+2. 
