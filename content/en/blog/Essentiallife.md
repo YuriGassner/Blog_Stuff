@@ -67,3 +67,6 @@ couple of people they sincerely trust and truthfully love - any form of love - r
 ressource trading for personal gain where the nature of the relationship is rather hostile than loving), ... more? probably   
 
 2. 
+ 
+We are like magnets, only small sociol groups can stay together. Current situation of big societies leave us cramped together in situations where we do not trust others. State is keeping us together like
+hands holding together 2 magnets of the same "ausrichtung" but we are under constant stress??? 
