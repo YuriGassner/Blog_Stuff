@@ -1,0 +1,3 @@
+[submodule "themes/schwarz"]
+	path = themes/schwarz
+	url = git@github.com:thinegen/schwarz.git
