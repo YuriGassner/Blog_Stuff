@@ -7,6 +7,7 @@ pygmentsoptions = "linenos=true"
 
 enableGitInfo = true
 rssLimit = 20
+paginate = 20
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
