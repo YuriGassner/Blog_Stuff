@@ -30,7 +30,7 @@ PluralizeListTitles = false
   showCC = true
   showBY = true
   showSA = true
-  sectionsToSortAlphabetically = ["recipes"]
+  sectionsToSortAlphabetically = ["recipes", "rezepte"]
 
 [[languages.de.menu.main]]
   name = "Home"
@@ -52,7 +52,7 @@ PluralizeListTitles = false
 
 [[languages.de.menu.main]]
   name = "Rezepte"
-  url = "/de/recipes/"
+  url = "/de/rezepte/"
   weight = 3
 [[languages.en.menu.main]]
   name = "Recipes"
