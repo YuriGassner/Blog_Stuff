@@ -30,6 +30,7 @@ PluralizeListTitles = false
   showCC = true
   showBY = true
   showSA = true
+  sectionsToSortAlphabetically = ["recipes"]
 
 [[languages.de.menu.main]]
   name = "Home"
