@@ -59,25 +59,18 @@ PluralizeListTitles = false
   url = "/en/recipes/"
   weight = 3
 
-[[languages.de.menu.main]]
-  name = "Impressum"
-  url = "/de/impressum/"
-  weight = 4
-[[languages.en.menu.main]]
-  name = "Imprint"
-  url = "/en/imprint/"
-  weight = 4
-
 [languages]
   [languages.de]
     languageName = "Deutsch"
     contentDir = "content/de"
     languageCode = "de-DE"
-      [languages.de.params]
-        copyrightPage = "copyright.md"
+    [languages.de.params]
+      copyrightPage = "copyright.md"
+      imprintPage = "impressum.md"
   [languages.en]
     languageName = "English"
     contentDir = "content/en"
     languageCode = "en-US"
-      [languages.en.params]
-        copyrightPage = "copyright.md"
+    [languages.en.params]
+      copyrightPage = "copyright.md"
+      imprintPage = "imprint.md"
