@@ -7,7 +7,6 @@ pygmentsoptions = "linenos=true"
 
 enableGitInfo = true
 rssLimit = 20
-paginate = 20
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
@@ -31,6 +30,7 @@ PluralizeListTitles = false
   showBY = true
   showSA = true
   sectionsToSortAlphabetically = ["recipes", "rezepte"]
+  paginateAlphabetical = 20
 
 [[languages.de.menu.main]]
   name = "Home"
