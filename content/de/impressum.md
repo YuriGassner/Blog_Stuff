@@ -2,6 +2,7 @@
 title: "Impressum"
 layout: "single-page"
 translationKey: "Imprint"
+noindex: true
 ---
 
 Y.T.C.A. Gaßner
