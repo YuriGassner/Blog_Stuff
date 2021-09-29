@@ -13,12 +13,14 @@ defaultContentLanguageInSubdir = true
 
 PluralizeListTitles = false
 
+[taxonomies]
+    tag = "tags"
+
 [markup]
   defaultMarkdownHandler = "goldmark"
 
 [frontmatter]
   date = ["publishDate", "date", "lastmod"]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
 
 [permalinks]
   blog = "/:sections/:year/:month/:title/"
