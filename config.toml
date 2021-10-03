@@ -1,5 +1,6 @@
 baseURL = "https://yagune.de"
 title = "yagune.de"
+theme = "schwarz"
 
 pygmentscodefences = true
 pygmentsoptions = "linenos=true"
@@ -12,12 +13,14 @@ defaultContentLanguageInSubdir = true
 
 PluralizeListTitles = false
 
+[taxonomies]
+    tag = "tags"
+
 [markup]
   defaultMarkdownHandler = "goldmark"
 
 [frontmatter]
   date = ["publishDate", "date", "lastmod"]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
 
 [permalinks]
   blog = "/:sections/:year/:month/:title/"
@@ -25,49 +28,51 @@ PluralizeListTitles = false
 [Params]
   giturl = "https://github.com/YuriGassner/Blog_Stuff"
   dateFormat = "2006-01-02"
+  showCC = true
+  showBY = true
+  showSA = true
+  sectionsToSortAlphabetically = ["recipes", "rezepte"]
+  paginateAlphabetical = 20
 
 [[languages.de.menu.main]]
-  name = "Blog"
+  name = "Home"
   url = "/de/"
   weight = 1
 [[languages.en.menu.main]]
-  name = "Blog"
+  name = "Home"
   url = "/en/"
   weight = 1
 
 [[languages.de.menu.main]]
-  name = "Shorts"
-  url = "/de/shorts/"
+  name = "Blog"
+  url = "/de/blog/"
   weight = 2
 [[languages.en.menu.main]]
-  name = "Shorts"
-  url = "/en/shorts/"
+  name = "Blog"
+  url = "/en/blog/"
   weight = 2
 
 [[languages.de.menu.main]]
   name = "Rezepte"
-  url = "/de/recipes/"
+  url = "/de/rezepte/"
   weight = 3
 [[languages.en.menu.main]]
   name = "Recipes"
   url = "/en/recipes/"
   weight = 3
 
-[[languages.de.menu.main]]
-  name = "Impressum"
-  url = "/de/impressum/"
-  weight = 4
-[[languages.en.menu.main]]
-  name = "Imprint"
-  url = "/en/imprint/"
-  weight = 4
-
 [languages]
   [languages.de]
     languageName = "Deutsch"
     contentDir = "content/de"
     languageCode = "de-DE"
+    [languages.de.params]
+      copyrightPage = "copyright.md"
+      imprintPage = "impressum.md"
   [languages.en]
     languageName = "English"
     contentDir = "content/en"
     languageCode = "en-US"
+    [languages.en.params]
+      copyrightPage = "copyright.md"
+      imprintPage = "imprint.md"
