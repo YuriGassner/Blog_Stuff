@@ -32,7 +32,7 @@ PluralizeListTitles = false
   showBY = true
   showSA = true
   sectionsToSortAlphabetically = ["recipes", "rezepte"]
-  paginateAlphabetical = 20
+  paginateAlphabetical = 50
 
 [[languages.de.menu.main]]
   name = "Home"
