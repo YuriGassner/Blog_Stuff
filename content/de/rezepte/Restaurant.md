@@ -75,6 +75,27 @@ Erst alles außer das Öl vermischen
 
 
 
+Aioli (ohne ei)
+============
+
+ACHTUNG! Gibt sehr viel Aioli (etwa 4-5L Sonnenblumenöl)
+
+- 500ml Milch
+- 9 Knoblauchzehen
+- etwas Zitronensaft
+- 1EL Salz
+- Sonnenblumenöl
+
+Knoblauchzehen, Milch, Zitronensaft und Salz zusammen mixen
+
+Sobald der Knoblauch fein gehackt ist, unter ständigem Rühren, Sonnenblumenöl zufügen bis sich eine steife Masse gebildet hat
+
+Common mistakes:
+
+- Zuviel Zitronensaft (Milch wird flocken und die Emulsion bricht)
+- Zitronensaft nachdem die Emulsion gebaut wurde (Milch wird flocken und Emulsion bricht wieder)
+- Zu viel/Zu schnelle Beigabe von Öl (Emulsion bricht und kann nichtmehr zusammengebracht werden)
+
 
 Rezept-Ideen
 ============ 
