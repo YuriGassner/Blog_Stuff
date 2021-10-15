@@ -30,6 +30,7 @@ Muhammara mit Rezept
 ============
 
 - Sonnenblum- & Kürbiskerne (geröstet)
+- Geröstete Semmelbrösel
 - Granatapfelsirup
 - Geröstete Paprikas
 - Gleiche Gewürze wie oben
