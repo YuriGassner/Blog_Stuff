@@ -25,3 +25,13 @@ Gewürze im Mörser zerkleinern und Paprikapulver beigeben
 Knoblauchzehen, Paprikas, Walnüsse, Granatäpfel und die Gewürzmischung im Mixer sehr fein hacken oder mit einem Zauberstab pürieren
 
 
+
+Muhammara mit Rezept
+============
+
+- Sonnenblum- & Kürbiskerne (geröstet)
+- Granatapfelsirup
+- Geröstete Paprikas
+- Gleiche Gewürze wie oben
+- 2 Knoblauchzehen
+- etwas Sesamsamen
